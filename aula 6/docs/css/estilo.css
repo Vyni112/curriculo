@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    background-color: #fdffcd;
+    color: #53a8b6;
+}
+
+.nome{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.headernome{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+section{
+
+    margin-top: 3%;
+    margin-right: 7%;
+    margin-bottom: 5%;
+    margin-left: 4%;
+}
+
+
+.limenu{
+    list-style: none;
+    display: inline;
+    padding: 0.5%;
+    border: solid;
+    border-color: #bae8e8;
+    margin-bottom: 25;
+}
+
+.linkmenu{
+    text-decoration: none;
+}
+
+.limenu:hover{
+    background-color: #bbe4e9;
+    border: none;
+}
+
+
+
+#formacao{
+    background-color: black;
+}
+
+.nav{
+
+}
